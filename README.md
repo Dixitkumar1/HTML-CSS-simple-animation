@@ -1,1 +1,1 @@
-# HTML-CSS-simple-animation
+# HTML-CSS-simple-animations
